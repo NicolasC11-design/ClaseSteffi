@@ -24,3 +24,14 @@
 height: 300px;
 object-fit: cover;
 }
+.pricing{
+    transition:transform 0.2s;
+}
+.pricing:hover{
+    transform: scale(1.05);
+}
+.Descubre{
+    border: none;
+    border-left: 2px solid blue;
+    height: 100%;
+}
