@@ -1,0 +1,22 @@
+.carousel-inner img{
+   height: 500px;
+   object-fit: cover;
+}
+.card-img-overlay{
+    background-color: rgba(0,0,0, 0.5);
+    object-fit: cover;
+    text-shadow: rgb(0,0,0, 0.5);
+}
+h1{
+    
+    text-align: center;
+    padding-top: 110px;
+}
+.classImg {
+    height: 100%;
+    object-fit: cover;
+    
+}
+.card{
+    height: 100% ;
+}
